@@ -450,7 +450,7 @@ class BatchStackWindow(QMainWindow):
 
     @Slot()
     def _help(self):
-        QDesktopServices.openUrl(QUrl("https://google.com"))
+        QDesktopServices.openUrl(QUrl("https://github.com/SahilPurabiya/BatchStacking"))
 
     @Slot()
     def _about(self):

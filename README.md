@@ -4,8 +4,6 @@ BatchStack is a lightweight desktop application for sequentially grouping and st
 
 Example: given 12 images and a group size of 3, BatchStack groups them as `1-2-3`, `4-5-6`, `7-8-9`, and `10-11-12`, then writes one stacked FITS file for each group.
 
-  <img src="assets/screenshot.png" alt="BatchStack GUI Screenshot" width="620">
-</p>
 
 ## Features
 
